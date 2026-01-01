@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brija Kairouan</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(135deg, #8b5e3c, #5a3b24);
+            color: white;
+            padding: 30px 15px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #222;
+            padding: 12px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: #ffd700;
+        }
+
+        section {
+            padding: 30px;
+            background-color: white;
+            margin: 20px auto;
+            max-width: 900px;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #8b5e3c;
+        }
+
+        .arabic {
+            direction: rtl;
+            font-family: "Tahoma", Arial, sans-serif;
+            background-color: #faf3e8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Brija Kairouan</h1>
+    <p>The Dialect & Culture of Kairouan</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#culture">Culture</a>
+    <a href="#language">Brija</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+    <h2>Welcome</h2>
+    <p>
+        Brija Kairouan is the traditional Tunisian dialect spoken in the city of
+        Kairouan. It reflects history, identity, and local pride.
+    </p>
+</section>
+
+<section id="about">
+    <h2>About Brija Kairouan</h2>
+    <p>
+        The Kairouan dialect has unique pronunciation, vocabulary, and expressions
+        that distinguish it from other Tunisian regions.
+    </p>
+</section>
+
+<section id="culture">
+    <h2>Culture & Traditions</h2>
+    <p>
+        Kairouan is famous for its religious heritage, traditional food, poetry,
+        carpets, and strong cultural values passed from generation to generation.
+    </p>
+</section>
+
+<section id="language">
+    <h2>Brija Examples</h2>
+
+    <p><strong>Some common expressions:</strong></p>
+
+    <div class="arabic">
+        شنية الأحوال؟ <br>
+        لاباس؟ <br>
+        ربي يفضّل <br>
+        يعطيك الصحة
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>
+        📧 Email: info@brijakairouan.com <br>
+        📍 City: Kairouan, Tunisia
+    </p>
+</section>
+
+<footer>
+    <p>© 2025 Brija Kairouan | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
